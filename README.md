@@ -45,3 +45,8 @@ I build 🔧, break 💥, and rebuild 🧬 smarter. Whether it's orchestrating s
 ---
 
 > 🧪 *“Code is art. Containers are canvases. Retro is religion.”* — Dr. Technolust
+>
+> ![Dr. Technolust's GitHub stats](https://github-readme-stats.vercel.app/api?username=drtechnolust&show_icons=true&theme=radical)
+> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=drtechnolust)
+
+
