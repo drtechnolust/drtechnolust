@@ -8,7 +8,6 @@ I build 🔧, break 💥, and rebuild 🧬 smarter. Whether it's orchestrating s
 
 ## 🛠️ Featured Projects
 
-- 🔧 [**mardistech-blog**](https://github.com/drtechnolust/mardistech-blog) – My tech journey powered by [Astro](https://astro.build)
 - 🚀 HomeLab Setup (coming soon)
 - 🔒 Authentik + Traefik + Cloudflare Zero Trust (write-up in progress)
 
