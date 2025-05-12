@@ -38,7 +38,6 @@ I build 🔧, break 💥, and rebuild 🧬 smarter. Whether it's orchestrating s
 
 ## 📫 Connect With Me
 
-- 🌐 [**mardistech.com**](https://mardistech.com)
 - 🐦 Twitter: DrTechnolust
 - 💬 Discord: drtechnolust
 
